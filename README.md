@@ -1,5 +1,5 @@
 # Exercicio_RH_Pedidos
-Repositório da atividade do exercício de modelagem de software para dois modelos conceituais de RH e pedidos de uma entidade. oi
+Repositório da atividade do exercício de modelagem de software para dois modelos conceituais de RH e pedidos de uma entidade. 
 # :mega: Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
